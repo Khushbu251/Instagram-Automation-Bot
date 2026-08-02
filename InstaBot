@@ -1,0 +1,14 @@
+# Create the project folder
+mkdir InstaBot
+
+# Add files to the folder
+cd InstaBot
+# Create some files or copy existing ones here
+echo "# D:\Python\InstaBot" > README.md
+
+# Stage and commit the changes
+git add InstaBot/
+git commit -m "InstaBot"
+
+# Push to GitHub
+git push origin main
